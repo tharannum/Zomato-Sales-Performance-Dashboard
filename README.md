@@ -1,4 +1,5 @@
 # Zomato-Sales-Performance-Dashboard
+![overview](https://github.com/tharannum/Zomato-Sales-Performance-Dashboard/blob/main/Overview.jpg)
   
 ## **Executive Summary**
 
@@ -136,17 +137,17 @@ Below are examples of key insights derived from the dashboard.
 
 ### **Insight 1 — Revenue Trend Decline After Peak Period**
 
-Revenue peaked in **December 2023** but declined steadily for the next three months, dropping **14% between Q1 and Q2 2024**.
+Revenue peaked in **2018** but declined steadily for the next three months, dropping **2020**.
 
-**[Placeholder for Power BI Visualization – Sales Trend Line Chart]**
+**![Year Sales Trend](https://github.com/tharannum/Zomato-Sales-Performance-Dashboard/blob/main/Sales%20by%20Year.jpg)**
 
 ---
 
-### **Insight 2 — Top 5 Restaurants Contribute 62% of Total Revenue**
+### **Insight 2 — Top 5 city Contribute 62% of Total Revenue**
 
 A small group of high-performing restaurants accounts for **over half** of all sales, indicating strong dependency on a few partners.
 
-**[Placeholder for Power BI Visualization – Top Restaurants Bar Chart]**
+**![Top 5 Resturants](https://github.com/tharannum/Zomato-Sales-Performance-Dashboard/blob/main/city%20based%20on%20order.jpg)**
 
 ---
 
@@ -155,26 +156,33 @@ A small group of high-performing restaurants accounts for **over half** of all s
 * The **Leading Category (e.g., Biryanis & Combos)** grew **24%** from Q1 to Q3 2024.
 * The **Lagging Category (e.g., Chinese Cuisine)** declined **18%** in the same period.
 
-**[Placeholder – Category Performance Comparison]**
+**![Category Performance Comparison](https://github.com/tharannum/Zomato-Sales-Performance-Dashboard/blob/main/different%20food.jpg)**
 
 ---
 
 ### **Insight 4 — Refund Rate Increasing**
 
-Refund rate increased from **2.8% in Jan 2024** to **4.3% by Sep 2024**, driven mainly by:
+ Increased in user **12k Gain** and **33k lost**, driven mainly by:
 
 * Late delivery
 * Order mismatch
 * Restaurant unavailability
+![customer](https://github.com/tharannum/Zomato-Sales-Performance-Dashboard/blob/main/Gain%20And%20.jpg)
 
 ---
 
 ### **Insight 5 — City-Level Performance**
 
 Bangalore and Hyderabad consistently deliver the highest revenue, while Tier-2 cities show strong AOV but lower order volume.
+![city](https://github.com/tharannum/Zomato-Sales-Performance-Dashboard/blob/main/City%20Performance.jpg)
 
 ---
+### **Insight 6 - User Performance 
 
+ Analysis shows 23-year-olds are underrepresented on our platform. We're experiencing churn among this age group, indicating a need for targeted offers to attract and retain them.
+ ![age](https://github.com/tharannum/Zomato-Sales-Performance-Dashboard/blob/main/user%20performance.jpg)
+
+---
 # 📌 **6. Recommendations**
 
 Based on the insights, here are actionable recommendations:
