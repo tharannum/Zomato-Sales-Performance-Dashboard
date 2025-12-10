@@ -153,8 +153,8 @@ A small group of high-performing restaurants accounts for **over half** of all s
 
 ### **Insight 3 — Leading Category vs. Lagging Category**
 
-* The **Leading Category (e.g., Biryanis & Combos)** grew **24%** .
-* The **Lagging Category (e.g., Veg combos)** declined **18%** in the same period.
+* The **Leading Category (e.g., veg Combos)** grew **24%** .
+* The **Lagging Category (e.g., non Veg combos)** declined **18%** in the same period.
 
 **![Category Performance Comparison](https://github.com/tharannum/Zomato-Sales-Performance-Dashboard/blob/main/different%20food.jpg)**
 
