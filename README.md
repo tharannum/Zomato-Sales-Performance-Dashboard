@@ -19,7 +19,7 @@ An interactive Power BI dashboard has been built to visualize these insights and
 ### Overall Performance Dashboard 
 The Overall Performance Dashboard provides a high-level summary of all key business indicators in a single view. This page acts as the central hub for stakeholders to quickly understand how the business is performing across sales, customers, product categories, and operational metrics.
 
-You can find the Power BI Dashboard HERE: 
+You can find the Power BI Dashboard HERE: https://acrobat.adobe.com/id/urn:aaid:sc:ap:1d9ad110-78c6-4715-b8e4-7903e14ed6a7 
 
 ---
 
